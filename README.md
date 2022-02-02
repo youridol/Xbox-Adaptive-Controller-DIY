@@ -82,3 +82,25 @@ Xbox adaptive controller 自定义控制开关套件和图纸
 
 ------
 
+
+
+## 小型摇杆零件列表
+
+<img src="./img/rockeractuator/rockeractuator.png" height="100" width="100" /> **平均成品单价：45元**
+
+| <img src="./img/rockeractuator/M2.5-3.png" height="50" width="50" /> | <img src="./img/rockeractuator/M2.5-6.png" height="50" width="50" /> | <img src="./img/rockeractuator/2.5-6.png" height="50" width="50" /> | <img src="./img/rockeractuator/2.5-20.png" height="50" width="50" /> | <img src="./img/rockeractuator/JoyStick.png" height="50" width="50" /> | <img src="./img/rockeractuator/JoyStick1.png" height="50" width="50" /> | <img src="./img/rockeractuator/dbxgdg.png" height="50" width="50" /> | <img src="./img/rockeractuator/3.5-4.png" height="50" width="50" /> | <img src="./img/ABXYcombinationbutton/ykl.png" height="50" width="50" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| M2.5*3平头螺丝4颗                                            | M2.5*6平头螺丝12颗                                           | M2.5*6双通六角螺柱4颗                                        | M2.5*20双通六角螺柱4颗                                       | 游戏摇杆按键模块<br/>JoyStick传感器1个<br/>（二选一，都可兼容） | 游戏摇杆按键模块<br/>JoyStick传感器1个<br/>（二选一，都可兼容） | 杜邦线公对母4条<br/>（长度按需购买）                         | 3.5mm四节公转免焊接插头1个                                   | 亚克力切割费用                                               |
+| 4.25元（能买到100颗）                                        | 5.1元 （能买到100颗）                                        | 2.71元 （能买到20颗）                                        | 2.8元 （能买到10颗）                                         | 3.43元                                                       | 8元                                                          | 4元                                                          | 4.36元                                                       | 30元3份<br/>（足够做3个摇杆）                                |
+| [购买参考链接](https://detail.tmall.com/item.htm?id=627952509933&spm=a1z09.2.0.0.1bdb2e8dtY1ByV&_u=s3b7eq17d979&skuId=4456393808441) | [购买参考链接](https://detail.tmall.com/item.htm?id=627952509933&spm=a1z09.2.0.0.1bdb2e8dtY1ByV&_u=s3b7eq17d979&skuId=4456393808449) | [购买参考链接](https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-18288959680.12.57e03b2983pVNS&id=17320356113&rn=1722c233ab7375d41359e726df001d6e&abbucket=2&skuId=4920002563089) | [购买参考链接](https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-18288959680.12.57e03b2983pVNS&id=17320356113&rn=1722c233ab7375d41359e726df001d6e&abbucket=2&skuId=4920002563064) | [购买参考链接](https://detail.tmall.com/item.htm?id=529728518075&spm=a1z09.2.0.0.1bdb2e8dE90pJZ&_u=s3b7eq178624&skuId=4323993115895
+) | [购买参考链接](https://detail.tmall.com/item.htm?id=637649101440&spm=a1z09.2.0.0.1bdb2e8dE90pJZ&_u=s3b7eq17f961&skuId=4744984122274
+) | [购买参考链接](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1bdb2e8dQ1Vv1c&id=567943637652&_u=s3b7eq171949) | [购买参考链接](https://detail.tmall.com/item.htm?id=561728920921&spm=a1z09.2.0.0.1bdb2e8do49iY8&_u=s3b7eq175893&skuId=4307108837009) | [购买参考链接](https://shop111329417.taobao.com/shop/view_shop.htm?shop_id=111329417) |
+
+
+
+[小型摇杆—组装步骤点击直达链接](https://shimo.im/docs/RvdYkpqp8QqhHYVp/read)
+
+
+
+------
+
