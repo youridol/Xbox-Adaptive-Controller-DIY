@@ -102,3 +102,23 @@ Xbox adaptive controller 自定义控制开关套件和图纸
 
 ------
 
+
+
+## 大型摇杆零件列表
+
+<img src="./img/Maxrocker/Maxrocker.png" height="100" width="100" /> **平均成品单价：178元**
+
+| <img src="./img/Maxrocker/m2.5-6.png" height="50" width="50" /> | <img src="./img/Maxrocker/m2.5-10.png" height="50" width="50" /> | <img src="./img/Maxrocker/m5-10.png" height="50" width="50" /> | <img src="./img/Maxrocker/2.5-30.png" height="50" width="50" /> | <img src="./img/Maxrocker/ardiunorr.png" height="50" width="50" /> | <img src="./img/Maxrocker/dgqt.png" height="50" width="50" /> | <img src="./img/Maxrocker/lwzhq.png" height="50" width="50" /> | <img src="./img/Maxrocker/dbxgdg.png" height="50" width="50" /> | <img src="./img/Maxrocker/3.5-4.png" height="50" width="50" /> | <img src="./img/ABXYcombinationbutton/ykl.png" height="50" width="50" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| M2.5*6平头螺丝 4颗                                           | M2.5*10平头螺丝 4颗                                          | M5*10平头螺丝 3颗                                            | M2.5*30双通六角螺柱 4颗                                      | Arduino摇杆模块 1个                                          | 档杆球头 1个                                                 | 螺纹转换器 1个                                               | 杜邦线公对公4条<br/>（长度按需购买）                         | 3.5mm四节公转免焊接插头 1个                                  | 亚克力切割费用                                               |
+| 5.1元 （能买到100颗）                                        | 5.4元 （能买到100颗）                                        | 6元 （能买到50颗）                                           | 4.3元 （能买到10颗）                                         | 85元                                                         | 46元                                                         | 18元                                                         | 4元                                                          | 4.36元                                                       | 30元3份（足够做3个摇杆）                                     |
+| [购买参考链接](https://detail.tmall.com/item.htm?id=627952509933&spm=a1z09.2.0.0.1bdb2e8dtY1ByV&_u=s3b7eq17d979&skuId=4456393808449) | [购买参考链接](https://detail.tmall.com/item.htm?id=627952509933&spm=a1z09.2.0.0.1bdb2e8dtY1ByV&_u=s3b7eq17d979&skuId=4456393808448) | [购买参考链接](https://detail.tmall.com/item.htm?id=627952509933&spm=a1z09.2.0.0.1bdb2e8dtY1ByV&_u=s3b7eq17d979&skuId=4632370363159) | [购买参考链接](https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-18288959680.12.57e03b2983pVNS&id=17320356113&rn=1722c233ab7375d41359e726df001d6e&abbucket=2&skuId=4920002563055) | [购买参考链接](https://detail.tmall.com/item.htm?id=637649101440&spm=a1z09.2.0.0.1bdb2e8dE90pJZ&_u=s3b7eq17f961&skuId=4744984122280) | [购买参考链接](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1bdb2e8dJfLPwJ&id=605822483215&_u=s3b7eq17d4e9) | [购买参考链接](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1bdb2e8dJfLPwJ&id=605822483215&_u=s3b7eq17d4e9) | [购买参考链接](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1bdb2e8dQ1Vv1c&id=567943637652&_u=s3b7eq171949) | [购买参考链接](https://detail.tmall.com/item.htm?id=561728920921&spm=a1z09.2.0.0.1bdb2e8do49iY8&_u=s3b7eq175893&skuId=4307108837009) | [购买参考链接](https://shop111329417.taobao.com/shop/view_shop.htm?shop_id=111329417) |
+
+
+
+[大型摇杆—组装步骤点击直达链接](https://shimo.im/docs/rYHpvqjhgQRRJ8RG/read)
+
+
+
+------
+
