@@ -1,4 +1,39 @@
 # Xbox Adaptive Controller DIY 开关控制套件图纸
+<style>
+table th:first-of-type {
+    width: 500px;
+}
+table th:nth-of-type(2) {
+    width: 500px;
+}
+table th:nth-of-type(3) {
+    width: 500px;
+}
+table th:nth-of-type(4) {
+    width: 500px;
+}
+table th:nth-of-type(5) {
+    width: 500px;
+}
+table th:nth-of-type(6) {
+    width: 500px;
+}
+table th:nth-of-type(7) {
+    width: 500px;
+}
+table th:nth-of-type(8) {
+    width: 500px;
+}
+table th:nth-of-type(9) {
+    width: 500px;
+}
+table th:nth-of-type(10 {
+    width: 500px;
+}
+</style>
+
+
+
 Xbox adaptive controller 自定义控制开关套件和图纸
 购买链接，仅供参考!五金零件规格需要一致，轴体、键帽、杜邦线、亚克力工厂等可以自由选择!!
 
@@ -121,4 +156,6 @@ Xbox adaptive controller 自定义控制开关套件和图纸
 
 
 ------
+
+
 
